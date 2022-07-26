@@ -113,6 +113,22 @@ Peer Operators SHOULD establish an alternative means of submitting a transaction
 
 Peer Operators SHOULD signal to clients if their Peer is unable to participate in Consensus. The recommended approach is returning a Result with the Error Code `:NETWORK` to indicate that network connectivity is unavailable. This can signal to clients that they should try again later, or alternatively attempt to connect to a different Peer in the main network assuming this is still live.
 
+### Security Practices
 
+A Peer Operator (individual or corporate) remains responsible for the operation of a Peer. They are encouraged to follow certain protocols to ensure sufficient levels of security.
+
+- Physical access to facilities is limited to the Peer Operator (and authorised personnel).
+
+- Peer Operators (and authorised personnel) are issued identification cards that must be worn while on its premises.
+
+- Peer Operator (and authorised personnel) are required to sign a visitor’s register, be escorted and/or observed when they are on its premises, and/or be bound by the terms of a confidentiality agreement with the Peer Operator (and authorised personnel).
+
+- Security monitors the possession of keys/access cards and the ability to access facilities. Staff leaving a Peer Operator's (and authorised personnel) employment must return keys/cards and key/cards are deactivated upon termination.
+
+- Security authorizes all repairs and modifications to the physical security barriers or entry controls at service locations.
+
+- Peer Operator's (and authorised personnel) use a mixture of 24/7 onsite security officers or patrol officers, depending on the risk/protection level of the facility. In all cases, Peer Operators (and authorised personnel) are responsible for patrols, alarm response, and recording of security incidents.
+
+- Peer Operator (and authorised personnel) implemented centrally managed electronic access control systems with integrated intruder alarm capability. The access logs are kept for a minimum of six months. Furthermore, the retention period for CCTV monitoring and recording ranges from 30-90 days minimum, depending on the facility’s functions and risk level.
 
 
