@@ -6,6 +6,20 @@ We are building Convex and its ecosystem because we believe that this capability
 
 This manifesto outlines our beliefs and core principles.
 
+## Introduction 
+
+## Existing blockchain networks have suffered from the trifecta of scalability, security and decentralisation. We know where we want to go - and why the existing solutions are sub-optimal.** 
+
+A digital economy relies on reliable infrastructure to facilitate efficient and effective interactions. Convex aims to support data-driven economic activity via its decentralised infrastructure. Convex focuses on the following high-level objective:
+
+**Frictionless finance** - providing an accessible solution with low barriers to entry
+
+**Supporting the digital economy** - supporting commerce using online channels
+
+**Environmental sustainability** - delivering an energy efficient solution in line with the Sustainabilty Development Goals (SDGs) 
+
+**Responsible innovation** - engaging in software development practices that are compliant with all applicable rules, regulations, laws and codes 
+
 ## Value exchange
 
 **The primary purpose of Convex is to facilitate value exchange: interactions where economic participants come to an agreement where they gain something of value from each other.**
