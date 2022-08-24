@@ -16,13 +16,13 @@ We define value broadly: it may be represented through currency, information, ow
 
 ## Self Sovereignty
 
-**Participants must be empowered to act as self-sovereign economic agents: they must be allowed to transact freely with others without prior restraint by third parties**
+**Participants must be empowered to act as self-sovereign economic agents with respect to personal data ownership: they must be allowed to transact freely with others without prior restraint by third parties within a solid governance framework.**
 
-This principle is critical so that participants are able to act freely in the economy without being excluded.
+This principle is critical so that participants are able to act freely in the economy and unlock vast amounts of economic value without being excluded.
 
-While we require the right of particpants to act in a self-sovereign manner, they may choose to delegate or appoint a representatitive to act for them, for example a provider of financial services. This is acceptable as long as it is a free choice by particiapnts, and they are not forced into such arrangements.
+While we require the right of participants to act in a self-sovereign manner, they may choose to delegate or appoint a representative to act for them, for example a provider of financial services. This is acceptable as long as it is a free choice by participants, and they are not forced into such arrangements. We encourage participants to take back control of their personal data, either through a third-party or independently, within an environment free from privacy issues. 
 
-It is important to note that self sovereignty does not negate the requirement for participants to act within the law and fulfill societal obligations such as paying appropriate taxes.
+It is important to note that self sovereignty does not negate the requirement for participants to act within the law and fulfill societal obligations, such as paying appropriate taxes and the protection of digital identity.
 
 ## Fair access
 
@@ -156,3 +156,13 @@ Initially, the governance role will be performed by the Convex Foundation, a non
 Governance must be sustainable, in the sense that adequate provision should be made to allow for continued investment in the core technology and infrastructure, supporting the common needs of ecosystem participants. To ensure this, the Convex Foundation will manage a long term endowment fund, comprising both an initial allocation of Convex Coins and proceeds from the sale of Convex Coins to initial purchasers. 
 
 In the longer term, we we will implement decentralised governance. Decentralised governance will be adopted once we have sufficient confidence that it is practical to implement, secure against plausible threats and serves the interest of Convex users and society as a whole.
+
+## Data Protection
+
+**Convex should build a data protection structure suitable for protecting commercially sensitive data.**
+
+Blockchain networks should respect participants' right to the control of their data. Convex is not required to reveal more data than necessary. We may encrypt on-chain data so that it is only usable by permissioned parties. We respect participants' rights in selecting and deploying Convex to address its data protection and privacy concerns (and those of other supply-chain partners). 
+
+We are focused on the protection of commercially sensitive data. Our top action items to protect sensitive data shared on Convex are to ensure its confidentiality, preserve commercial advantage, provide third-party data access (if necessary) and restricting the use of private data. To this end, we use state-of-the-art technology solutions without material drawbacks in usability (e.g. limited transaction speed). 
+
+As part of our governance framework, we consider applicable design options for data confidentiality. Whilst these may change in line with technological advancements, we will take all reasonable measures to protect participants' data in a fast moving space. 
