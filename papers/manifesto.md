@@ -183,3 +183,17 @@ One key role of network governance is to prevent forks. As a public utility that
 Initially, the governance role will be performed by the Convex Foundation, a non-profit organisation registered in the United Kingdom.
 
 In the longer term, we will implement decentralised governance. This will happen once we have sufficient confidence that it is practical to implement, secure against plausible threats and serves the interest of Convex users and society as a whole.
+
+## Diversity
+
+**Convex focuses its efforts on cultivating and sustaining a diverse work environment and workforce.**
+
+Focusing on its people is criticial to meeting the unique needs of Convex's diverse stakeholder base and the communities in which it operates. Convex is committed to making progress toward racial equity, advancing gender equality, and increasing representation at every level of the community. 
+
+A commitment towards creating and sustaining a diverse work environment is paramount for long-term success. Convex reason for  this is three-fold:
+
+For Convex. We strive for excellence. To this end, we must have the right people, and the right people are drawn from the broadest pool of applicants. The people we required can be found only by looking across the entire spectrum of race, color, religion, creed, sex, age, national origin, citizenship status, disability, qualified veteran status, genetic information, marital status, sexual orientation and gender identity.
+
+For people. Convex's culture is community-based. For this to happen, all members must feel that they are working in an inclusive environment that welcomes and supports differences, and that welcomes input from all perspectives. Convex's people have the right to expect a workplace in which the richness of their lives and experience is embraced and valued by their team and by Convex.
+
+For users. Convex's users' interests are a primary concern. To continue providing users with value-added  solutions for operating effectively in a complex global economy, Convex must be fully capable of dealing with different environments in an informed and considered manner. Experience has shown Convex that it can best serve its users’ interests by tapping the insights, talents and judgments of a diverse workforce.
