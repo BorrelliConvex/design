@@ -185,3 +185,20 @@ One key role of network governance is to prevent forks. As a public utility that
 Initially, the governance role will be performed by the Convex Foundation, a non-profit organisation registered in the United Kingdom.
 
 In the longer term, we will implement decentralised governance. This will happen once we have sufficient confidence that it is practical to implement, secure against plausible threats and fully serves the interest of Convex users and society as a whole.
+
+## Agile Business  
+
+**Convex should be native to the fluid, rapidly changing environment in which it operates.*
+
+Operating in an agile manner is reflected across Convex in the fabric of its culture and how it operates. This straddles the following:
+
+Customers - seamless, rapid customer feedback loops to inform strategies, tactics, innovation and continuous improvement.
+Planning and Process - interdisciplinary agility, cross-functional, and embracing of uncertainty, permission to fail.
+Rsources - structures and resourcing oriented around the customer.
+Strategy - fully agile and adaptive strategy, systematic and embedded experimentation and long-term view.
+Vision - clear organisational purpose and vision lived through leadership and operations.
+Culture - highly fluid/collaborative, agile culture, empowered teams and distributed authority.
+
+All of these elements form an integral part of Convex's vision for what 'good looks like'. 
+
+Convex acknowledges the criticial mindset shifts that are involved in transitioning at scale from the traditional ways of working in the operation of the network. Of note, are the shifst from resource control to resource orchestration, from internal optimisation to external interaction, and from a focus on customer value to a focus on ecosystem.
