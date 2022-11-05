@@ -185,3 +185,12 @@ One key role of network governance is to prevent forks. As a public utility that
 Initially, the governance role will be performed by the Convex Foundation, a non-profit organisation registered in the United Kingdom.
 
 In the longer term, we will implement decentralised governance. This will happen once we have sufficient confidence that it is practical to implement, secure against plausible threats and fully serves the interest of Convex users and society as a whole.
+
+
+## Autarky
+
+**Convex encourages independence, self-sufficiency and freedom of thought for all contributions: a state which promotes individual self-governance.**
+
+Being self-sufficient means participants can achieve more without being overly reliant on one another. With regards to economic systems, Convex’s participants can operate and exist free of outside influence support or trade. Strong systems grow stronger by promoting autonomy for day-to-day interactions. 
+
+We view autonomy broadly: it is an effort to build decentralised structures or to allocate resources to design structures that are not aligned with those perceived as hostile. Operating in a decentralised manner depends on independent contributions from a variety of skilled practitioners with a common objective. Accordingly, Convex must promote self-sufficiency from its contributors, advisors and other stakeholders to deliver value that are greater than the sum of its parts.
