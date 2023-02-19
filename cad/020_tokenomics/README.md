@@ -2,7 +2,7 @@
 
 ## IMPORTANT NOTE
 
-This repository discusses hypothetical tokenomic specification and design decisions relating to the Convex network. It does not in any way represent a commitment to implement the Convex Network in precisely the manner described, 
+This repository discusses hypothetical tokenomic specification and design decisions relating to the Convex network. It does not in any way represent a commitment to implement the Convex Network in precisely the manner described. 
 
 The information contained in this repository is provided on an "as is" basis for informational and discussion purposes only, with no guarantees of completeness, accuracy, usefulness or timeliness.
 
@@ -10,7 +10,7 @@ This does not in any way constitute financial advice. Participants in the ecosys
 
 ## Overview
 
-Convex serves as a public utility network, where participants are free to transact on a decentralised basis. As such, there is a requirement for and economic protocol whereby users of the network can fairly compensate the providers of infrastructure for the
+Convex serves as a public utility network, where participants are free to transact on a decentralised basis. As such, there is a requirement for an economic protocol whereby users of the network can fairly compensate the providers of infrastructure for the Internet of Value.
 
 
 ## Design Objectives
@@ -19,11 +19,11 @@ The tokenomic model has been designed with the following objectives:
 
 ### Utility Token
 
-The Convex Coin is a utility token - it represents no more and no less than the right to use the coin to access services provided by the Convex Network.
+The Convex Coin is a utility token - it represents no more and no less than the right to use the coin to access products and/or services provided by the Convex Network.
 
 ### Means of exchange
 
-The Convex Coin should serve as a means of exchange within the ecosystem, which can be used to facilitate efficient transactions between parties on a decentralised basis. As such, it must be convenient to use both by network users and autonomous actors / smart contracts as a digital currency.
+The Convex Coin should serve as a means of exchange within the ecosystem, which can be used to facilitate efficient transactions between parties on a decentralised basis. As such, it must be convenient to use both by network users and autonomous actors / smart contracts as a digital currency. Convex does not purport Convex Coin to be either or both a Unit of Account or Store of Valud.  This distinction solely depends on how a user of the ecosystem uses Convex Coins.
 
 ### Capped maximum supply
 
@@ -38,8 +38,8 @@ We wish to provide a degree of assurance to coin holders that their holdings wil
 We must ensure that coins are distributed fairly, on the basis of making contributions to the Convex ecosystem. While there are many ways to contribute, we consider three categories of participants essential to reward fairly:
 
 - **Contributors** : Those who help build the ecosystem, whether through contributions to Convex itself of building value in the broader ecosystem.
-- **Coin Purchasers** : Those who help fund the development of Convex, by purchasing newly issued Convex Coins
-- **Peer Operators**: Those who provide the infrastructure to operate the network on a decentralised basis
+- **Coin Purchasers** : Those who help fund the development of Convex, by purchasing newly issued Convex Coins.
+- **Peer Operators**: Those who provide the infrastructure to operate the network on a decentralised basis.
 
 ### DoS prevention
 
@@ -47,7 +47,7 @@ It is necessary to protect the network against the risk of DoS attacks enabled b
 
 ### Sustainability
 
-In the long term, the tokenomics should converge towards a stable steady state equilibrium, where the pricing of transactions is fair and balances the cost of providing services and infrastructure for the network
+In the long term, the tokenomics should converge towards a stable steady state equilibrium, where the pricing of transactions is fair and balances the cost of providing services and infrastructure for the network.
 
 
 
@@ -57,8 +57,8 @@ In the long term, the tokenomics should converge towards a stable steady state e
 
 The following overall tokenomic flows are possible:
 
-- **Genesis** : The complete coin supply is generated and placed into governance accounts which are initially considered "unissued"
-- **Issuance** : Coins are issued to either **Contributors** or **Coin Purchasers**
+- **Genesis** : The complete coin supply is generated and placed into governance accounts which are initially considered "unissued". 
+- **Issuance** : Coins are issued to either **Contributors** or **Coin Purchasers** in line with the appplicable regulatory requirements.
 - **Transfers** : Holders of coins may freely transfer coins between accounts. These accounts may include autonomous actor accounts as well as external users.
 - **Memory Accounting** : Coins may be exchanged for memory on the Global State. The memory accounting pool is considered a special governance account. See the Memory Accounting CAD for more details.
 - **Transaction Fees** : Coins are taken from users who commit transactions to the network, and held in a peer reward pool for subsequent distribution to Peers. See the Transactions and Juice Accounting CAD for more details.
@@ -70,7 +70,7 @@ The following overall tokenomic flows are possible:
 
 The Network MUST implement a fixed maximum coin supply of 1,000,000,000 Convex Coins.
 
-Each Convex Coin MUST be sub-divided into 1,000,000,000 base units, referred to as "coppers" 
+Each Convex Coin (CVG) MUST be sub-divided into 1,000,000,000 base units, referred to as "coppers" (CVC).
 
 The Network must treat Convex Coins and coppers identically, i.e. the implementation should consider the range of possible coin values to be a value from `0` to `10^18`.
 
@@ -82,8 +82,8 @@ Note: The maximum supply is chosen so that coin balances can be comfortably expr
 
 The Network MUST divide the total initial supply of Convex Coins into two quantities:
 
-- 75% for Coin Purchasers via the Release Curve
-- 25% for the Convex Foundation's reserve
+- 75% for Coin Purchasers via the Release Curve.
+- 25% for the Convex Foundation's reserve.
 
 ### Release Curve
 
@@ -91,7 +91,7 @@ Coin purchases MUST be priced in fiat currency or equivalent, consistent with th
 
 The price of a Coin on the release curve is defined as `$100 * x / (1-x)` where `x` is the proportion of coins released out of the total allocation for coin purchasers, and `$` represents United States dollars or equivalent currency.
 
-Note: The constant value `$100` is chosen so that once `50%` of all coins are issued, the market cap of Convex Coins would be equal to `$50bn` 
+Note: The constant value `$100` is chosen so that once `50%` of all coins are issued, the market cap of Convex Coins would be equal to `$50bn`.
 
 The Release Curve formula MAY be adjusted in the event of significant economic events affecting the relative value of fiat currencies used (e.g. sustained high rates of inflation). The Foundation MUST consult with the ecosystem and provide a robust rationale for any such changes.
 
